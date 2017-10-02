@@ -1,7 +1,7 @@
 {
   "name": "waffle-issue-template",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "jquery": "^3.2.1"
   },
